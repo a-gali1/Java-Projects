@@ -1,0 +1,11 @@
+/Future_Tuition.class
+/GCD.class
+/NestedLoop_Pyramid.class
+/NestedLoop_Triangle.class
+/Nested_Loops.class
+/Number_Pyramid.class
+/Palindrome_Checker.class
+/Prime_Number.class
+/TestForLoop.class
+/Timed_Questions.class
+/Unit05_Project.class
